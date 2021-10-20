@@ -546,3 +546,10 @@ macro_rules! __impl_bflag
 	};
 }
 
+
+#[cfg(test)]
+mod tests
+{
+	use std::collections::hash_map::DefaultHasher;
+	use std::hash::{Hash, Hasher};
+}

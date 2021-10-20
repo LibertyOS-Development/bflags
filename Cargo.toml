@@ -1,6 +1,6 @@
 [package]
 name = "bflags"
-version = "0.1.2"
+version = "0.2.0"
 edition = "2018"
 authors = ["Daniel P. Teberian"]
 categories = ["no-std", "embedded-development"]
